@@ -1,0 +1,6 @@
+name: genpark-arima-autoregressive-integrated-predictor-skill
+version: 1.0.0
+description: ARIMA(1, d, 0) autoregressive integrated time series predictor with sample autocorrelation estimation
+command: python
+args:
+  - mcp_server.py
