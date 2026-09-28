@@ -1,0 +1,20 @@
+{
+  "name": "genpark-arima-autoregressive-integrated-predictor-skill",
+  "version": "1.0.0",
+  "description": "ARIMA(1, d, 0) autoregressive integrated time series predictor with sample autocorrelation estimation",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "arima",
+    "autoregressive",
+    "differencing",
+    "time-series",
+    "forecasting",
+    "yule-walker",
+    "python-standard-library",
+    "agent-skills",
+    "autocorrelation",
+    "stationary-series"
+  ]
+}
